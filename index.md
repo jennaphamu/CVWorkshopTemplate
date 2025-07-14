@@ -8,7 +8,7 @@ Sean Purcell is a digital health humanist who works at UCSF>
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Health Impact:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 - **Digital Health Humanities:** I do things.
 
